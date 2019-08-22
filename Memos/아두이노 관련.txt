@@ -1,0 +1,11 @@
+아두이노 to PC
+https://hothobbang.tistory.com/135
+
+(****)https://m.blog.naver.com/PostView.nhn?blogId=zeta0807&logNo=220820499141&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+
+소켓 바이너리 전송 예제 
+https://sfixer.tistory.com/entry/%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC-%ED%8C%8C%EC%9D%BC%EC%A0%84%EC%86%A1-C%EC%96%B8%EC%96%B4-%EC%98%88%EC%A0%9C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8
+
+모바일 핫스팟 or softAP사용(리얼텍 유틸리티 <- 홈페이지에서 최신 드라이버 다운로드)
+http://iptime.com/iptime/?page=2&page_id=67&uid=18158&mod=document

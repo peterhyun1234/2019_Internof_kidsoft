@@ -1,0 +1,9 @@
+<mfc- sqlite>
+연동 절차
+https://zadd.tistory.com/16?category=293349
+
+쿼리
+https://www.tutorialspoint.com/sqlite/sqlite_c_cpp
+
+select 사용법
+https://blueye.tistory.com/89

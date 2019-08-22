@@ -1,0 +1,48 @@
+<mfc>
+
+2. 문자열 추출 https://shaeod.tistory.com/331
+
+3. 폴더 설정 다이얼로그
+https://glorypapa.com/8
+https://enginius.tistory.com/528
+
+4. datetimepicker
+마땅히 정리되어있는게 없음
+변수 만들고 -> Get, Set으로 설정
+	CString DTP_start;
+	CString DTP_end;
+
+	m_DTP_START.GetWindowText(DTP_start);
+	M_DTP_END.GetWindowText(DTP_end);
+
+
+5. MFC - UART 
+https://it4all.tistory.com/3?category=319441
+http://blog.naver.com/PostView.nhn?blogId=onlywin7788&logNo=140161634165
+https://codingcoding.tistory.com/1042
+
+6. MFC - thread
+https://m.blog.naver.com/mincheol9166/220718941148
+
+7. MFC - combo box
+https://foxlime.tistory.com/99
+http://perdupper.blogspot.com/2016/03/mfc-listbox-listbox.html
+
+8. MFC - 자동으로 컴포트 번호 얻어오기
+https://webnautes.tistory.com/654
+
+9. MFC - picture control
+type 을 bitmap으로 바꾸고
+속성 들어가서 IDC 임의로 바꾸고
+변수추가 눌러서 CStatic 이 아니라 CChartViewer로!
+
+10. MFC - timer
+http://blog.naver.com/PostView.nhn?blogId=jo_hyun&logNo=221342883753
+
+11. MFC - messagebox
+https://dosnipe.tistory.com/53
+
+12. MFC - wifi
+http://egloos.zum.com/rucaus/v/2293868
+
+https://m.blog.naver.com/PostView.nhn?blogId=lwj798&logNo=220629365205&proxyReferer=https%3A%2F%2Fwww.google.com%2F&view=img_2
