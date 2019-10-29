@@ -1,14 +1,14 @@
 # intern of kidsoft(2019.7.1 - 8.31)
 MFC를 활용한 Real-time Pressure indicator
--------------------------------------
-##1. Technology used
+
+## 1. Technology used
 ### <MFC>
     윈도우 어플리케이션을 만들기 위해서 MFC를 활용
 ### <Arduino>
     센서들을 통해 데이터를 측정하고 윈도우 응용 프로그램과 통신  
 ### <Database>   
     측정한 데이터를 통계화하기 위해 데이터 베이스를 사용. (SQLite, MogoDB, MySQL)
----------------------------------------------
+
 ## 2. Development content
     <센서 측정 시스템 PC제어 SW개발>
     1. 아두이노를 이용한 압력 측정 센서 보드 디자인 및 개발
