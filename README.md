@@ -23,7 +23,7 @@ MFC를 활용한 Real-time Pressure indicator
 
 
 ## 4. Development result
-    사진
+![indicator](https://user-images.githubusercontent.com/46476398/68106073-c674ea80-ff23-11e9-8d91-76709b0ce320.png)
 
 ## 5. I felt that
     * 회사에서 계약관계나 돈관계를 더 확실히 해야겠다고 느낌
