@@ -7,7 +7,7 @@ MFC를 활용한 Real-time Pressure indicator
 ### Arduino>
     센서들을 통해 데이터를 측정하고 윈도우 응용 프로그램과 통신  
 ### Database>   
-    측정한 데이터를 통계화하기 위해 데이터 베이스를 사용. (SQLite, MogoDB, MySQL)
+    측정한 데이터를 통계화하기 위해 데이터 베이스를 사용. (SQLite, MongoDB, MySQL)
 
 ## 2. Development content
     <센서 측정 시스템 PC제어 SW개발>
